@@ -6,7 +6,7 @@ Pandoc is a very versatile tool which allows conversion of multiple document for
 To simplify running pandoc, we will make use of Google Colab notebooks. 
 
 To begin, go to https://colab.research.google.com/ 
-Use of Colab is free. Note - tThere are limitations on the free version, but we will not reach these for our conversion purposes. 
+Use of Colab is free. Note - There are limitations on the free version, but we will not reach these for our conversion purposes. 
 
 On the Colab example home page, select "File", then "Open Notebook"
 
