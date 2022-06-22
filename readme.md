@@ -1,5 +1,5 @@
 # Converting files with pandoc
-This is a guide on how to convert files to markdown with pandoc
+This is a guide on how to convert files to markdown with pandoc. It shows how to convert from docx to markdown formats, and this can be adjusted for other formats too. Included is a guide for collecting images from docx files, and a loop for conversion and collection in batches of input files.
 
 Pandoc is a very versatile tool which allows conversion of multiple document formats. 
 
